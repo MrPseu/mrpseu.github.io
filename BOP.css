@@ -1,0 +1,197 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  padding: 10px;
+  background:rgb(240, 252, 248);
+}
+
+/* Header/Blog Title */
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #a0e6e8;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #212529;
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color:  #212529;;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: rgb(255, 180, 81);
+  color: black;
+}
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {   
+  float: left;
+  width: 75%;
+}
+
+
+
+
+/* ----------------------*/
+.abstract {
+  background-color:  rgb(240, 252, 248);
+  padding: 20px;
+  margin-top: 20px;
+}
+.newmoney {
+  background-color: #a0e6e8;
+  width: 100%;
+  padding: 20px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #212529;
+}
+
+
+
+/* ----------------------*/
+.money101 {
+  background-color:  rgb(240, 252, 248);
+  padding: 20px;
+  margin-top: 20px;
+}
+.notinskool {
+  background-color: #a0e6e8;
+  width: 100%;
+  padding: 20px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #212529;
+}
+
+
+
+/* ----------------------*/
+.Prob1 {
+  background-color:  rgb(240, 252, 248);
+  padding: 20px;
+  margin-top: 20px;
+}
+.corpt_sov{
+  background-color: #a0e6e8;
+  width: 100%;
+  padding: 20px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #212529;
+}
+
+
+
+
+/* ----------------------*/
+.Sol1 {
+  background-color:   rgb(240, 252, 248);
+  padding: 20px;
+  margin-top: 20px;
+}
+.BFT1{
+  background-color: #a0e6e8;
+  width: 100%;
+  padding: 20px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #212529;
+}
+
+
+
+
+/* ----------------------*/
+.bmer1 {
+  background-color:  rgb(240, 252, 248);
+  padding: 20px;
+  margin-top: 20px;
+}
+.dgold {
+  background-color: #f5e027ef;
+  width: 100%;
+  padding: 20px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #212529;
+}
+
+
+
+/* ----------------------*/
+.bmer2 {
+  background-color:  rgb(240, 252, 248);
+  padding: 20px;
+  margin-top: 20px;
+}
+.supercash {
+  background-color: rgb(12, 211, 145);
+  width: 100%;
+  padding: 20px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #212529;
+}
+
+
+
+/* ----------------------*/
+.bmer3 {
+  background-color:  rgb(240, 252, 248);
+  padding: 20px;
+  margin-top: 20px;
+}
+.freedom {
+  background-color: rgb(255, 180, 81);
+  width: 100%;
+  padding: 20px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #212529;
+}
+
+
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #a0e6e8;
+  margin-top: 20px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #212529;
+}
